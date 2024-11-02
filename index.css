@@ -1,0 +1,99 @@
+.card{
+    margin: 5%;
+    display: flex;
+}
+@media( max-width:768px){
+    .media{
+   display: block !important;
+    }
+}
+.ci{
+    background-image: url(https://media.istockphoto.com/id/1315825752/photo/cafe-window-selling-tea-and-coffee.jpg?s=612x612&w=0&k=20&c=ZfZo6ZyFxX3oFxQR0avTHFKumh2FY6NuqxaLs9vMtUc=);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+   
+}
+.ii{
+    margin: 10%;
+}
+.y1{
+    padding: 3.5%;
+}
+.f1{
+    background-color:lightslategray;
+}
+.f2{
+    height: 19%;
+    margin: 1%;
+}
+.f3{
+    width: 50%;
+    margin: 1%;
+}
+.footup
+{
+background-color: black;
+color: whitesmoke;
+display: flex;
+justify-content: space-between;
+padding: 40px;
+list-style: none;
+}
+.footup1{
+    margin-left: 10%;
+}
+.footup3{
+    margin-right: 10%;
+}
+.footer{
+    background-color: black;
+    color: whitesmoke;
+    padding: 40px;
+    list-style: none;
+}
+.tAbout{
+            
+            margin-left: 40%;
+            
+}
+.About{
+    display: flex;
+    padding: 2%;
+    
+}
+.About1{
+    margin-right: 200px;
+}
+.About2{
+
+}
+.bookTable{
+    margin-top: 20px;
+    border: 5px solid white;
+    padding: 15px;
+    list-style: none;
+    font-size: 150%;
+    font-weight: bolder;
+
+}
+.contact{
+    background-color: gray;
+}
+
+.form1{
+    margin-left:10% ;
+    margin-right: 10%;
+    
+    
+}
+.form10{
+    background-color:gray;
+}
+@media(max-width:460px){
+    .m1{
+        width: 162vh;
+    }
+}
+
+
